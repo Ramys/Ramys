@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 Estou procurando ajuda com http://azerothsanctuary.com/en/
 - 💪 Pergunte-me sobre IPTV: Eu lhe ajudarei  - Canais IPTV Free 
 - 📫👁‍🗨 Como me encontrar: Via https://github.com/ Ou Via http://azerothsanctuary.com/en/
-- 🎵🎶 Sou fã da banda - THE SMITHS e adoro o Morrisey em seu projeto SOLO!
+- 🎵🎶 Sou fã da banda - THE SMITHS e adoro o Morrissey em seu projeto SOLO!
 <!--END_SECTION:activity-->
