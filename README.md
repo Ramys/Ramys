@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 - 🔭🐱‍👤 Atualmente estou trabalhando em http://azerothsanctuary.com/en/
-- 🌱 Atualmente estou aprendendo C# ,Html , Lua e Java
+- 🌱 C# ,Html , Lua e Java são os que mais trabalho.
 - 👯 Estou procurando colaborar em http://azerothsanctuary.com/en/
 - 🤔 Estou procurando ajuda com http://azerothsanctuary.com/en/
 - 💪 Pergunte-me sobre IPTV: Eu lhe ajudarei  - Canais IPTV Free 
