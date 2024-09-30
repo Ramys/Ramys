@@ -1,6 +1,5 @@
 
- Olá!
- Eu sou o Ramys!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+,+Eu+sou+o+Ramys!+;Bem+vindos+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
