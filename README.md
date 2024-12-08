@@ -2,7 +2,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramys&show_icons=true&theme=ayu-mirage" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramys&layout=compact&langs_count=16&theme=ayu-mirage" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramys&layout=compact&langs_count=8&theme=ayu-mirage" />
 </div>
 
 <picture>
